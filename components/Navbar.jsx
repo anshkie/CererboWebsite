@@ -101,7 +101,7 @@ const Navbar = () => {
         <div className="hidden md:flex space-x-4 bg-purple-500 rounded-xl px-6 py-6">
           <NavLink href="/sponsors">Sponsors</NavLink>
           <NavLink href="/team">Team</NavLink>
-          <NavLink href="/contactUs">Contact Us</NavLink>
+          <NavLink href="/contact-us">Contact Us</NavLink>
         </div>
 
         {/* Hamburger Menu */}
